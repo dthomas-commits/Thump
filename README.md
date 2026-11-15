@@ -1,4 +1,4 @@
-# Thumb Beat
+# Thump
 
 Rhythm game controlled by thumb gestures via webcam (MediaPipe Hands).
 
