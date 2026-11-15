@@ -1,0 +1,9 @@
+{
+  "name": "thumb-beat",
+  "version": "1.0.0",
+  "description": "Webcam thumb-gesture rhythm game",
+  "private": true,
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=16" },
+  "dependencies": { "@mediapipe/hands": "0.4.1675469240" }
+}
